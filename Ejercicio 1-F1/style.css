@@ -1,0 +1,151 @@
+
+.caja{
+    display: flex;
+    flex-direction: column;
+    background-color:antiquewhite;
+    
+}
+
+.imagen{
+    width: 20%;
+    height: 6%;
+    align-self: center;
+}
+
+
+.url{
+    display: block;
+    align-self: center;
+    color:crimson
+}
+
+.p1{
+    text-align: center;
+}
+
+.p2{
+    text-align: justify;
+}
+
+.titulo1{
+    text-align: center;
+    color:crimson
+}
+
+.caja2{
+    display: flex;
+    flex-direction: column;
+    background-color:cadetblue;
+}
+
+.imagen2{
+    width: 40%;
+    height: 70%;
+    align-self: center;
+}
+
+.titulo2{
+    text-align: center;
+    color:aliceblue
+}
+
+.p3{
+    text-align: justify;
+}
+
+.url2{
+    display: block;
+    align-self: center;
+    color:aliceblue
+}
+
+p{
+    margin: 10px;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+.subcaja{
+    display: flex;
+    
+}
+
+.dos{
+    
+    display:inline-block ;
+    border: 6px solid crimson;
+    background-color: crimson;
+    color:antiquewhite;
+   
+}
+
+.urlcaja2{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+
+.tres{
+    
+    display: inline-block;
+    border: 6px solid crimson;
+    background-color: crimson;
+    color:antiquewhite;
+}
+
+.urlcaja3{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.cuatro{
+    display: inline-block;
+border: 6px solid crimson;
+background-color: crimson;
+color:antiquewhite;
+}
+
+.urlcaja4{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.subcaja2{
+    display: flex;
+}
+
+.dossubcaja{
+    display: inline-block;
+    border: 6px solid antiquewhite;
+    background-color: antiquewhite;
+}
+
+.urlsubcaja2{
+    color:cadetblue;
+    text-decoration: none;
+}
+
+.tressubcaja{
+    display: inline-block;
+    border: 6px solid antiquewhite;
+    background-color: antiquewhite;
+}
+
+.urlsubcaja3{
+    color:cadetblue;
+    text-decoration: none;
+}
+
+.cuatrosubcaja{
+    display: inline-block;
+    border: 6px solid antiquewhite;
+    background-color: antiquewhite;
+}
+
+.urlsubcaja4{
+    color:cadetblue;
+    text-decoration: none;
+}
