@@ -1,0 +1,54 @@
+.padre{
+    display: flex;
+    background-color: palevioletred;
+    width: 90%;
+    height: 600px;
+    
+}
+
+.subpadre{
+    display: flex;
+   align-items: center;
+  flex-direction: row-reverse;
+  margin: 8px;
+  justify-content: space-around;
+}
+
+h1{
+   
+   align-self: center;
+    
+}
+
+.t1{
+    text-align: center;
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 8px;
+}
+
+.t2{
+    text-align: center;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin: 8px;
+    
+}
+
+.t3{
+    text-align: center;
+    background-color: brown;
+    width: 250px;
+    height: 250px;
+    margin: 8px;
+}
+
+.t4{
+    text-align: center;
+    background-color: violet;
+    width: 300px;
+    height: 300px;
+    margin: 8px;
+}
