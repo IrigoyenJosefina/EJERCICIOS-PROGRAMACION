@@ -1,0 +1,130 @@
+
+/*BORDES*/
+.borde{
+    border: 1px solid;
+}
+
+.borderedondo{
+    border-radius: 20px;
+}
+
+/*CAJA SUPERIOR*/
+.superior{
+    display: flex;
+    background-color:papayawhip;
+    width: 60%;
+    height: 50px;
+    padding: 5px;
+   
+}
+
+.subsuperior1{
+    flex-direction: column;
+    width: 50%;
+}
+
+.subsuperior2{
+    display: flex;
+    flex-direction: column;
+   align-items: flex-end;
+   justify-content: space-around;
+   width: 50%;
+   
+}
+
+.encabezado{
+    height: 50%;
+}
+
+.logo{
+    background-color:paleturquoise;
+    width: 35%;
+    text-align: center;
+}
+
+.menu1{
+    background-color:palegreen;
+    text-align: center;
+    width: 60%;
+}
+
+.menu2{
+    background-color:lightsalmon; 
+    text-align: center;
+    width: 80%;
+}
+
+/*CAJAS DEL CENTRO*/
+
+.centro{
+    display: flex;
+    width: 60%;
+    height: 230px;
+    padding: 6px;
+    justify-content: space-between;
+}
+
+.izquierda1{
+    background-color: blueviolet;
+    width:30% ;
+    height: 220px;
+    margin:4px;
+    text-align: center;
+}
+
+.medio{
+    text-align: center;
+    background-color: hotpink;
+    width: 30%;
+    height: 220px;
+    margin:4px;
+}
+
+.derecha1{
+    text-align: center;
+    background-color: darkorange;
+    width: 30%;
+    height: 220px;
+    margin:4px;
+}
+
+.centro2{
+    display: flex;
+    width: 60%;
+    height: 230px;
+    padding: 6px;
+   justify-content: space-between;
+}
+
+.izquierda2{
+    display: flex;
+    background-color:gold;
+    width: 65%;
+    justify-content: center;
+}
+
+.derecha2{
+    display: flex;
+    background-color:turquoise;
+    width: 250px;
+    justify-content: center;
+   
+}
+
+/*CAJA INFERIOR*/
+
+.inferior{
+    display: flex;
+    background-color: lightblue;
+    width: 60%;
+    height: 40px;
+    padding: 6px;
+    align-items: center;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+.elemento{
+    background-color: blue;
+}
+
