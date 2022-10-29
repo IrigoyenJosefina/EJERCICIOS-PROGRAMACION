@@ -1,0 +1,13 @@
+div{
+    background-color:wheat;
+    height: 50px;
+    
+}
+
+button:hover{
+    color:tan
+}
+
+button:active{
+background-color: sandybrown;
+}
