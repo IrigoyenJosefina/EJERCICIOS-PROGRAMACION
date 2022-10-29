@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: tan;
+    color:white;
+    
+}
+
+h2{
+    font-size: large;
+    background-color: tan;
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+    background-color: tan;
+    color:white;
+}
+
+ul{
+    text-align: justify;
+    list-style: none;
+    
+}
+
+.padre{
+    display: flex;
+    justify-content: center;
+}
+
+.cajas{
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+   
+}
+
+
