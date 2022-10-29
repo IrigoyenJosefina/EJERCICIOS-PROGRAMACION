@@ -1,0 +1,49 @@
+.padre{
+    display: flex;
+    flex-direction: column;
+    background-color:burlywood;
+}
+
+.subpadre{
+    background-color:darkkhaki;
+}
+
+ul li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ol li{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.t1, .sub1{
+    color:white
+}
+
+.subpadre2{
+    background-color: khaki;
+}
+
+#t2{
+    color:darkcyan;
+}
+
+.titulo2{
+    color:aqua;
+}
+
+h3{
+    color: black;
+}
+
+#s2{
+    color: cadetblue;
+}
+
+.sub2{
+    color: chocolate;
+}
+
+h4{
+    color: darkblue;
+}
