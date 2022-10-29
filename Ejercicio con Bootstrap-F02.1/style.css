@@ -1,0 +1,38 @@
+.navbar-brand{
+    background-color: grey;
+    border-radius: 20px;
+    width: 120px;
+    text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.padre{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+img{
+    width: 50%;
+    height: 30%;
+    justify-content: flex-start;
+   
+}
+
+p{
+    text-align: justify;
+}
+
+.carousel{
+display: flex;
+width: 30%;
+height: 40%;
+align-self: center;
+
+}
